@@ -4,3 +4,4 @@
 - [2026-05-06T09:39:46Z] docs: update README with usage examples
 - [2026-05-06T14:57:05Z] style: apply consistent code formatting
 - [2026-05-06T16:17:40Z] docs: update README with usage examples
+- [2026-05-06T18:12:18Z] test: add unit tests for core module
